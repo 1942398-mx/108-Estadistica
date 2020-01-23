@@ -8,3 +8,6 @@ Lista de actividades del Curso.
   + Creamos nuestro primer repositorio (*108-Estadistica*)
   + Creamos nuestro proyecto en Rstudio (*108-Estadistica.Rproj*)
   + Actualizamos nuestro repositorio via versión control (*Git*)
+
+ + :paperclip: Clase 2: 23.01.2010
+ + Primera tarea del curso
