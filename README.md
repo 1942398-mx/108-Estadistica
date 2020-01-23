@@ -11,3 +11,4 @@ Lista de actividades del Curso.
 
  + :paperclip: Clase 2: 23.01.2010
  + Primera tarea del curso
+ + La fecha de entrega será el día 28.01 a las 23 horas
