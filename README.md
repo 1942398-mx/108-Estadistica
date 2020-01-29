@@ -13,5 +13,5 @@ Lista de actividades del Curso.
  + Primera tarea del curso
  + La fecha de entrega será el día 28.01 a las 23 horas
  
- + Clase 3: 29.01.2020
+ + Clase 3: 29.01.2020 (Script 1)
   + Instalar paqueteria para R
