@@ -15,3 +15,6 @@ Lista de actividades del Curso.
  
  + Clase 3: 29.01.2020 (Script 1)
   + Instalar paqueteria para R
+  + Estadisticas descriptivas
+  +Compilar Scripten formato "PDF"
+  +Actualizar en "Github"
