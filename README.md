@@ -16,5 +16,9 @@ Lista de actividades del Curso.
  + Clase 3: 29.01.2020 (Script 1)
   + Instalar paqueteria para R
   + Estadisticas descriptivas
-  +Compilar Scripten formato "PDF"
-  +Actualizar en "Github"
+  + Compilar Scripten formato "PDF"
+  + Actualizar en "Github"
+  
++ :paperclip: Clase4:30.01.2020 (*Script 2*)
+  + Importar base de datos de excel en formato *.csv*
+  + Utilizar el comando *read.csv*
