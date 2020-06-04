@@ -22,3 +22,5 @@ Lista de actividades del Curso.
 + :paperclip: Clase4:30.01.2020 (*Script 2*)
   + Importar base de datos de excel en formato *.csv*
   + Utilizar el comando *read.csv*
+
++ :paperclip: Clase5
